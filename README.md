@@ -1,53 +1,25 @@
-           <div class="right">
-                          <input  id="ck1" type="checkbox" checked/>
+<link href='https://fonts.googleapis.com/css?family=Lato:400,300,700' rel='stylesheet' type='text/css'>
 
-             <label for="ck1"></label>
-                          <input id="ck2" type="checkbox" checked/>
-
-              <label for="ck2"></label>
-                         <input id="ck3" type="checkbox" />
-
-              <label for="ck3"></label>
-                           <input id="ck4" type="checkbox" />
-            <label for="ck4"></label>
-                          <input id="ck5" type="checkbox" />
-              <label for="ck5"></label>
-
-           </div>
-         </div>
-         
-       </div>
-       <div class="skills__item">
-           <div class="left"><div class="name">
-             CSS</div></div>
-           <div class="right">
-                          <input  id="ck1" type="checkbox" checked/>
-
-             <label for="ck1"></label>
-                          <input id="ck2" type="checkbox" checked/>
-
-              <label for="ck2"></label>
-                         <input id="ck3" type="checkbox" />
-
-              <label for="ck3"></label>
-                           <input id="ck4" type="checkbox" />
-            <label for="ck4"></label>
-                          <input id="ck5" type="checkbox" />
-              <label for="ck5"></label>
-
-           </div>
-         </div>
-         
-       </div>
-     <div class="section">
-     <div class="section__title">
-       Interests
-       </div>
-       <div class="section__list">
-         <div class="section__list-item">
-                  Football, programming.
-          </div>
-       </div>
-     </div>
-     </div>
+<div class="container">
+  <div class="header">
+    <div class="full-name">
+      <span class="first-name">GOPI</span> 
+      <span class="last-name">RAM</span>
+    </div>
+    <div class="contact-info">
+      <span class="email">Email: </span>
+      <span class="email-val">gopiram0624@gmail.com</span>
+      <span class="separator"></span>
+      <span class="phone">Phone: </span>
+      <span class="phone-val">744894220</span>
+    </div>
+    
+    <div class="about">
+      <span class="position">ABOUT ME  </span>
+      <span class="desc">
+        I am an enthusiastic, self-motivated, reliable, responsible and hard working person. I am a mature team worker and adaptable to all challenging situations. I am able to work well both in a team environment as well as using own initiative.</span>
+    </div>
   </div>
+   <div class="details">
+    <div class="section">
+      <div class="section__title"></div>
